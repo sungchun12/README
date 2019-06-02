@@ -4,9 +4,9 @@
 
 I'm writing this because I was inspired by the template readme I'm basing this off of to expedite some "get to know me" dimensions. I prefer face to face, but I know I work with remote teams where we don't get the chance to fully expand on what I'm sharing throughout this document.
 
-I love building great work together when the problem context and my personal working posture align.
+I love building great work together when the problem context and my personal working posture align, and I want you to know what I consider alignment.
 
-I am a work in progress just like you who is reading this now, and I name and claim what's written below. My motto is being "humble and hungry", and I hope you join alongside me as we grow together in that.
+I am a work in progress just like you who is reading this now. My motto is being "humble and hungry", and I hope you journey with me as we grow together in that.
 
 ## My role
 
