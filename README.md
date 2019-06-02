@@ -21,7 +21,7 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 1. **Learning by Building**: I'm a big proponent that hands-on, tangible work reveals skill and growth more than lectures and certifications by themselves. In the past, I would limit myself in thinking academic technical knowledge around a topic equated to being ready to deploy something production worthy on day one. I thought I had to create the same POC everyone creates on their first Medium blog post to show, "Hey, I'm an engineer internet stranger! Validate me!" I thought filling my resume with the just the right recipe of buzzwords so as to pass through recruiting software keyword filters but human enough for a recruiter's glance was enough. Old me used proxies to being a better engineer without actually working to become a better engineer. Having is not the same as being. Appearances are the not same as being. I'm way more interested in journeying with myself and with you in building meaningful experiences and tools that actually work rather than stroking my ego on a pet project that validates the old me.
 
-1. **It's not about getting what people usually want, it's about surpassing who I am**: It's taken a lot of hard conversations with myself, community, and mentors to awaken a drive to chase after being a growing person rather than prestige, golden handcuffs, and corporate ladders. I will strongly advocate for projects/work that grow me into the person I want to become, not what will be bureaucratically advantageous. Dangling a title and pay upgrade as an incentive for doing work incongruent with my career vision will not motivate me. I thrive in hands-on work, not powerpoints(see point 1 above).
+1. **It's not about getting what people usually want, it's about surpassing who I am**: It's taken a lot of hard conversations with myself, community, and mentors to awaken a drive to chase after being a growing person rather than prestige, golden handcuffs, and corporate ladders. I strongly advocate for projects/work that grow me into the person I want to become, not what will be bureaucratically advantageous. Titles as an incentive for doing work incongruent with my career vision will not motivate me. I thrive in hands-on work, not powerpoints(see point 1 above).
 
 ## Accountability
 
@@ -33,10 +33,13 @@ The general thrust of this is: lets agree upon what we need done and why (I'll a
 
 ## How I Work
 
-- **How should people set time with you?** I may close Slack when in the flow of things, so I may not always be present there. I check email about twice a day. I generally like scheduling video chats with a day's notice. If there is something urgent, please call my cell (number on my Slack profile).
-- **What's the best way to discuss issues with you?** I am extremely open to direct 1 on 1 feedback and don't need a [compliment sandwich](https://www.quickbase.com/blog/stop-using-the-compliment-sandwich-and-give-better-feedback).
-- **How do you define "Done"?** My bar for "done" is probably lower than yours (see "Learn in Public", above). But I also expect to work on things after they are "initially done", i.e. I probably see more stages to a task than most. I do not put documentation at the end of my process so much as use it as a planning and support tool while I code, but having good docs are very much part of how I define "Done". Tests are great, but only make sense if there is stability in the API/idea so it is more of a judgment call for me than some who want everything unit tested.
-- **When are you available?** Chicago timezone
+- **How should people set time with you?** I prefer slack for conversations that take 2-3 minutes. If it's something 4-10 minutes, let's pickup the phone in real-time. It minimizes a lot of back and forth, and tone and subtext show a bit more. For anything longer I keep my calendar updated regularly, so slap something on a reasonable time window!
+
+- **What's the best way to discuss issues with you?** I am open to real-time conversations about work quality and/or interpersonal working dynamics. I welcome you to setup time 1:1 with me and a heads up and/or tap me on the shoulder and ask if we can discuss something in that moment. I ask that you name behaviors and end results from me that you challenge because it'll be something measurable I can act on rather than a nebulous character judgment.
+
+- **How do you define "Done"?** I typically list a bunch of internal acceptance criteria and get through 80% of that list before sharing my results with the rest of team. My aim is to show the team I'm pulling my weight but open to feedback and pivoting if I'm missing the mark before I get too emotionally attached to my 100% done definition. Documentation and testing are built into my definition of done but don't expect every edge case under the sun to be accounted for in the first draft. My ethos is that there is no final done, just better and better drafts.
+
+- **When are you available?** Chicago timezone. If you want, we can work through: [calendly](https://calendly.com/)
 
 ## Personality quirks
 
