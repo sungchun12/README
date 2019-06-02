@@ -10,7 +10,10 @@ I am a work in progress just like you who is reading this now. My motto is being
 
 ## My role
 
-- Consider adding a slalom build job description here
+- I build solution architecture diagrams, usually around end to end data pipelines
+- I execute on the above with hands-on code
+- I engage in pre-sales engineering conversations
+- I build code-based starter kits and utilities for my team
 
 ## TL;DR
 
