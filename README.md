@@ -2,11 +2,11 @@
 
 ## Why read me?
 
-I'm writing this in the hope that we can fast forward through some getting-to-know-you facets of me that we might miss (of course doing so IRL is better, but not always possible).
+I'm writing this because I was inspired by the template readme I'm basing this off of to expedite some "get to know me" dimensions. I prefer face to face, but I know I work with remote teams where we don't get the chance to fully expand on what I'm sharing throughout this document.
 
-I am really keen to do great work with/for you and I can be extremely, extraordinarily creative and productive under the right conditions.
+I love building great work together when the problem context and my personal working posture align.
 
-I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
+I am a work in progress just like you who is reading this now, and I name and claim what's written below. My motto is being "humble and hungry", and I hope you join alongside me as we grow together in that.
 
 ## My role
 
