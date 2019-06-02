@@ -34,7 +34,7 @@ The general thrust of this is: let's agree upon what we need done and why (I'll 
 
 2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me, and you'll notice me repeat next steps back to you. I believe words are precious, and I'll be as honest as possible about when I can deliver something: [Wise Words](https://www.youtube.com/watch?v=7uUAUDGl5-U&feature=youtu.be&t=34)
 
-3. **[Ultimate Tensile Strength](https://simple.wikipedia.org/wiki/Tensile_strength)**: I thrive in jumping into the deep end, and I love the challenge of building things that haven't been Medium blogged to death. I'm willing to go to the second tab of a Google search to figure things out. That's some due diligence right there.
+3. **Stretching my [Ultimate Tensile Strength](https://simple.wikipedia.org/wiki/Tensile_strength)**: I thrive in jumping into the deep end, and I love the challenge of building things that haven't been Medium blogged to death. I'm willing to go to the second tab of a Google search to figure things out. That's some due diligence right there.
 
 ## How I Work
 
