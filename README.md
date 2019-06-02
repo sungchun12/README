@@ -28,7 +28,9 @@ I am also very imperfect and I hope that my transparency about them here is not 
 The general thrust of this is: lets agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
 
 1. **Start with Why**: I generally (but don't literally) believe in [asking 5 Whys](https://en.wikipedia.org/wiki/5_Whys) and will often question why we are doing a thing as it may not be the best way of achieving our ultimate intended goal.
+
 2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me. I'm also a sprinter and will move heaven and earth to deliver something I've signed up to deliver.
+
 3. **Stretch**: I have no problem signing up for things slightly out of my comfort zone and knowledge level, in fact I love the challenge and do my best work on the edge. I'm willing to go to the second tab of a google search. That's some due diligence right there.
 
 ## How I Work
