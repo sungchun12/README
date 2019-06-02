@@ -27,9 +27,9 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 The general thrust of this is: lets agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
 
-1. **Start with Why**: I generally (but don't literally) believe in [asking 5 Whys](https://en.wikipedia.org/wiki/5_Whys) and will often question why we are doing a thing as it may not be the best way of achieving our ultimate intended goal.
+1. **Start with Why**: I generally believe in articulating the core story underlying the problem we're solving. If it can't be named in plain language, then I can't imagine the end result will resonate with the end user. The upfront work can be cumbersome and I do see the art in discerning whether we're brainstorming or going into analysis paralysis. However, I like doing my best to avoid building a rocket when we need a boat or worse vice versa.
 
-2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me. I'm also a sprinter and will move heaven and earth to deliver something I've signed up to deliver.
+2. **Frequent, Specific Deliverables**: I work best when I know exactly what is expected of me, and you'll notice me repeat next steps back to you. I believe words are precious, and I'll be as honest as possible about when I can deliver something: [Wise Words](https://www.youtube.com/watch?v=7uUAUDGl5-U&feature=youtu.be&t=34)
 
 3. **Stretch**: I have no problem signing up for things slightly out of my comfort zone and knowledge level, in fact I love the challenge and do my best work on the edge. I'm willing to go to the second tab of a google search. That's some due diligence right there.
 
