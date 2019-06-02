@@ -2,11 +2,11 @@
 
 ## Why read me?
 
-I'm writing this in the hope that we can fast forward through some getting-to-know-you facets of me that we might miss (of course doing so IRL is better, but not always possible).
+I'm writing this because I was inspired by the template readme I'm basing this off of to expedite some "get to know me" dimensions. I prefer face to face, but I know I work with remote teams where we don't get the chance to fully expand on what I'm sharing throughout this document.
 
-I am really keen to do great work with/for you and I can be extremely, extraordinarily creative and productive under the right conditions.
+I love building great work together when the problem context and my personal working posture align, and I want you to know what I consider alignment.
 
-I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road.
+I am a work in progress just like you who is reading this now. My motto is being "humble and hungry", and I hope you journey with me as we grow together in that.
 
 ## My role
 
@@ -25,7 +25,7 @@ I am also very imperfect and I hope that my transparency about them here is not 
 
 ## Accountability
 
-The general thrust of this is: lets agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
+The general thrust of this is: let's agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
 
 1. **Start with Why**: I generally believe in articulating the core story underlying the problem we're solving. If it can't be named in plain language, then I can't imagine the end result will resonate with the end user. The upfront work can be cumbersome, and I do see the art in discerning whether we're brainstorming or going into analysis paralysis. However, I like doing my best to avoid building a rocket when we need a boat or worse vice versa.
 
