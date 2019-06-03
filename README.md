@@ -6,7 +6,7 @@ I'm writing this because I was inspired by other readmes to expedite some "get t
 
 I love building great work together when the problem context and my personal working posture align, and I want you to know what I consider alignment.
 
-I am a work in progress just like you who is reading this now. My motto is being "humble and hungry", and I hope you journey with me as we grow together in that.
+I am a work in progress just like you. My motto is being "humble and hungry", and I hope you journey with me as we grow together in that.
 
 ## My role
 
