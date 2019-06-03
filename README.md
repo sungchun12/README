@@ -55,7 +55,7 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 - When aggressive tone is used to push a point rather than clear evidence-based logic, I assume you haven't thought your claims through.
 
-* _This is a non exhaustive list; There are definitely more things I can't think of right now._
+- _I have more, but these are the main ones in this season. More than happy to share more if you ask ;)_
 
 ## Tools I Use
 
