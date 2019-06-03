@@ -15,11 +15,6 @@ I am a work in progress just like you. My motto is being "humble and hungry", an
 - I engage in pre-sales engineering conversations
 - I build code-based starter kits and utilities for my team
 
-## TL;DR
-
-- add quick bits of career journey and milestones
-- certifications aren't everything, building real, living, useful things are the way to go
-
 ## What I Believe In
 
 1. **Learning by Building**: I'm a big proponent that hands-on, tangible work reveals skill and growth more than lectures and certifications by themselves. In the past, I would limit myself in thinking academic technical knowledge around a topic equated to being ready to deploy something production worthy on day one. I thought I had to create the same POC everyone creates on their first Medium blog post to show, "Hey, I'm an engineer internet stranger! Validate me!" I don't believe in proxies to being a better engineer without actually working to become a better engineer. Appearances are the not same as being. I'm way more interested in journeying with myself and with you in building meaningful experiences and tools that actually work.
