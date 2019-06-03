@@ -49,11 +49,11 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 ## Known Failure Modes
 
-- Demotivated when my workload is more about bureacracy and wordsmithing than hands-on development. I specifically notice this trend when you have technical AND social skills. People think you should play project manager/peacemaker and hands-on development double duty. Usually, you end up doing the former because the meetings eat up all your time and everyone loses in that deal.
+- I am demotivated when my workload is more about bureacracy and wordsmithing than hands-on development. I specifically notice this trend when you have technical AND social skills. People think you should play project manager/peacemaker and hands-on development double duty. Usually, you end up doing the former because the meetings eat up all your time and everyone loses in that deal.
 
-- When I know you haven't looked at my work seriously when you specifically requested it, I feel disrespected and will direct my energy to other priorities besides yours. Actual example: I had a team member pester me for weeks to finish a data pipeline. When it was finished, they didn't come back with feedback until months later saying it didn't quite meet their needs. It was clear they didn't look at my work even they pressed me with urgency. 
+- When I know you haven't looked at my work seriously when you specifically requested it, I feel disrespected and will direct my energy to other priorities besides yours. Actual example: I had a team member pester me for weeks to finish a data pipeline. When it was finished, they didn't come back with feedback until months later saying it didn't quite meet their needs. It was clear they didn't look at my work even though they pressed me with urgency.
 
-- When aggressive tone is used to push a point rather than clear evidence-based logic, I assume you haven't thought your claims through. Typically the "this just doesn't make sense, let's do this like we've done before" scenario communicates lack of due diligence in trying to make sense of a new idea.
+- When aggressive tone is used to push a point rather than clear evidence-based logic, I assume you haven't thought your claims through. Typically the, "This new idea just doesn't make sense, let's do this like we've done before." scenario communicates lack of due diligence in trying to make sense of a new idea.
 
 - _I have more, but these are the main ones in this season. More than happy to share more if you ask ;)_
 
