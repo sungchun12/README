@@ -10,10 +10,10 @@ I am a work in progress just like you. My motto is being "humble and hungry", an
 
 ## My role
 
-- I build solution architecture diagrams, usually around end to end data pipelines
-- I execute on the above with hands-on code
-- I engage in pre-sales engineering conversations
-- I build code-based starter kits and utilities for my team
+- Building solution architecture diagrams, usually around end to end data pipelines
+- Executing on the above with hands-on code
+- Engaging in pre-sales engineering conversations
+- Building code-based starter kits and utilities for my team
 
 ## What I Believe In
 
