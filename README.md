@@ -60,8 +60,6 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 ## Misc
 
-This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
-
-I forked this README from another great example.
+This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously.
 
 This is a living document, and I can't wait to show you my new commits along the way :)
