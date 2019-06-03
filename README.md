@@ -47,15 +47,16 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 - You'll notice I look away from you in focused conversations because I'm visualizing the words you're speaking to me.
 
-## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
+## Known Failure Modes
 
-- I shut down when people are bikeshedding (spending disproportionate time debating small things that they know well while not discussing bigger things that really matter). Yes, what "really matters" is subjective. But I will pick silence over contributing to what I perceive as noise. If it really does matter and you see me shut off, please tell me why it matters (see 5 Whys). I may respond by pointing to the bigger thing that does matter in my view.
 
-- I've been accused of being too direct with people without context. I don't like smalltalk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
+- I am demotivated when my workload is more about bureacracy and wordsmithing than hands-on development. I specifically notice this trend when you have technical AND social skills. People think you should play project manager/peacemaker and hands-on development double duty. Usually, you end up doing the former because the meetings eat up all your time and everyone loses in that deal.
 
-- Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
+- When I know you haven't looked at my work seriously when you specifically requested it, I feel disrespected and will direct my energy to other priorities besides yours. Actual example: I had a team member pester me for weeks to finish a data pipeline. When it was finished, they didn't come back with feedback until months later saying it didn't quite meet their needs. It was clear they didn't look at my work even though they pressed me with urgency.
 
-- _This is a non exhaustive list; There are definitely more things I can't think of right now._
+- When aggressive tone is used to push a point rather than clear evidence-based logic, I assume you haven't thought your claims through. Typically the, "This new idea just doesn't make sense, let's do this like we've done before." scenario communicates lack of due diligence in trying to make sense of a new idea.
+
+- _I have more, but these are the main ones in this season. More than happy to share more if you ask ;)_
 
 ## Tools I Use
 
