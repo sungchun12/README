@@ -49,6 +49,7 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 ## Known Failure Modes
 
+
 - I am demotivated when my workload is more about bureacracy and wordsmithing than hands-on development. I specifically notice this trend when you have technical AND social skills. People think you should play project manager/peacemaker and hands-on development double duty. Usually, you end up doing the former because the meetings eat up all your time and everyone loses in that deal.
 
 - When I know you haven't looked at my work seriously when you specifically requested it, I feel disrespected and will direct my energy to other priorities besides yours. Actual example: I had a team member pester me for weeks to finish a data pipeline. When it was finished, they didn't come back with feedback until months later saying it didn't quite meet their needs. It was clear they didn't look at my work even though they pressed me with urgency.
