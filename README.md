@@ -47,15 +47,15 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 - You'll notice I look away from you in focused conversations because I'm visualizing the words you're speaking to me.
 
-## [Known Failure Modes](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/edit#slide=id.p)
+## Known Failure Modes
 
-- I shut down when people are bikeshedding (spending disproportionate time debating small things that they know well while not discussing bigger things that really matter). Yes, what "really matters" is subjective. But I will pick silence over contributing to what I perceive as noise. If it really does matter and you see me shut off, please tell me why it matters (see 5 Whys). I may respond by pointing to the bigger thing that does matter in my view.
+- Demotivated when my workload is more about bureacracy and wordsmithing than hands-on development.
 
-- I've been accused of being too direct with people without context. I don't like smalltalk and while I respect that there I things I don't know, I often implicitly assume that people will fill me in on what I need to know if they see me assuming things in error. This can be a bad assumption.
+- When I know you haven't looked at my work seriously when you specifically requested it, I feel disrespected and will direct my energy to other priorities besides yours.
 
-- Because "my bar for done is probably lower than yours" (see above) it can appear like I don't care about details. I care (watch how rarely I make grammatical/spelling mistakes) but I care -more- about getting things out and iterating on the big picture first rather than debating wording on a button. Obviously, a lot more cases in real life are more ambiguous than that. If I make a judgement error and the detail really does matter, please call me out on it and I will work with you.
+- When aggressive tone is used to push a point rather than clear evidence-based logic, I assume you haven't thought your claims through.
 
-- _This is a non exhaustive list; There are definitely more things I can't think of right now._
+* _This is a non exhaustive list; There are definitely more things I can't think of right now._
 
 ## Tools I Use
 
