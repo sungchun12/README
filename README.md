@@ -2,7 +2,7 @@
 
 ## Why read me?
 
-I'm writing this because I was inspired by the template readme I'm basing this off of to expedite some "get to know me" dimensions. I prefer face to face, but I know I work with remote teams where we don't get the chance to fully expand on what I'm sharing throughout this document.
+I'm writing this because I was inspired by other readmes to expedite some "get to know me" questions. I prefer face to face, but I know I work with remote teams where we don't get the chance to fully expand on what I'm sharing throughout this document.
 
 I love building great work together when the problem context and my personal working posture align, and I want you to know what I consider alignment.
 
@@ -63,7 +63,7 @@ The general thrust of this is: let's agree upon what we need done and why (I'll 
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sungchun12/my-stack)
 
-# Misc
+## Misc
 
 This idea comes from [Manager README's](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe) - I'm no manager but I like the idea of READMEs to accelerate getting-to-know-you phases, especially asynchronously. So I'm trying this out.
 
