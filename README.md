@@ -56,7 +56,7 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 ## Tools I Use
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sungchun12/my-stack)
+CLICK ME: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/sungchun12/my-stack)
 
 ## Misc
 
