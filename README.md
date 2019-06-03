@@ -23,7 +23,7 @@ I am a work in progress just like you. My motto is being "humble and hungry", an
 
 ## Accountability
 
-The general thrust of this is: let's agree upon what we need done and why (I'll always have a suggestion), enable me with resources and knowledge, and check in frequently while I throw myself at it.
+The general thrust of this is: let's agree upon what we need done and why, enable me with resources and knowledge, and check in frequently while I throw myself at it.
 
 1. **Start with Why**: I generally believe in articulating the core story underlying the problem we're solving. If it can't be named in plain language, then I can't imagine the end result will resonate with the end user. The upfront work can be cumbersome, and I do see the art in discerning whether we're brainstorming or going into analysis paralysis. However, I like doing my best to avoid building a rocket when we need a boat or worse vice versa.
 
