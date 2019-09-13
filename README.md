@@ -45,8 +45,6 @@ The general thrust of this is: let's agree upon what we need done and why, enabl
 
 - I tend to go straight to heart to heart, introspective conversations with people when I pickup the sense that you can handle it. Sometimes this may be intense for people, and I'm more than happy to redirect the conversation if the vibe ain't right.
 
-- You'll notice I look away from you in focused conversations because I'm visualizing the words you're speaking to me.
-
 ## Known Failure Modes
 
 
